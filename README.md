@@ -43,6 +43,7 @@ Requires Python 3.10+ and Pillow (used for the background image and splash fade)
 ```bash
 pip install pyinstaller
 pyinstaller --onefile --windowed --name F4D3R ^
+  --icon icon.ico ^
   --add-data "background.png;." ^
   --add-data "splash.png;." ^
   fader.py

